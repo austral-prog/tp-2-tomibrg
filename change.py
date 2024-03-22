@@ -4,3 +4,4 @@ def change():
     pesos = int(money - expense)
     centavos = int(((money - expense) - 76)*100)
     print(f"Ingresar gasto:\n{expense}\nDinero recibido\n{money}\n\n\nVuelto\n\n\nPesos:\n{pesos}\nCentavos:\n{centavos}")
+change()    
