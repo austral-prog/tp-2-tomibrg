@@ -12,4 +12,4 @@ def earth():
 
     print(output2)
 
-    earth()
+earth()
